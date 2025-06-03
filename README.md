@@ -1,2 +1,2 @@
 # pratica-git-patricia
-atividdae
+atividade
